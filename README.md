@@ -5,6 +5,7 @@
 * CNN based Deep Learning Architecture for emotion detection.
 * Emotion Detection through images, videos and live web cam as well.
 * Trained the model with FER-2013 dataset
+* Obtained an accuracy of 92%
 ## Packages Used-
 * opencv
 * numpy
